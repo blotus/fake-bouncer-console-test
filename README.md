@@ -7,10 +7,10 @@ block ?
 ```
 
 `<script>alert(42)</script>`
-```
+```js
 <script>alert(22)</script>
 ```
-`</code><h1>test</h1>`
 
-'`"><\x3Cscript>javascript:alert(1)</script>        
-'`"><\x00script>javascript:alert(1)</script>
+```"/><h1>aaaaaa</h1>
+<script>alert(22)</script>
+```
