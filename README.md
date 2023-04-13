@@ -1,16 +1,20 @@
 # fake-bouncer-console-test
 
-`test`
-
-```
-block ?
-```
+testtest42
 
 `<script>alert(42)</script>`
 ```js
 <script>alert(22)</script>
 ```
 
-```"/><h1>aaaaaa</h1>
+```language-js
 <script>alert(22)</script>
 ```
+
+```language-asdasd
+<script>alert(23)</script>
+
+asdfasdf
+```
+
+<>
