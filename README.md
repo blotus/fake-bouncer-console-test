@@ -31,3 +31,4 @@ test42
 alert("hello");
 </script>
 </svg>
+end
