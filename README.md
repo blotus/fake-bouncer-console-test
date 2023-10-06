@@ -25,3 +25,9 @@ asdfasdf
 <img src=x onerror=alert(1)>
 up
 test42
+<img>
+<svg>
+<script type="text/javascript">
+alert("hello");
+</script>
+</svg>
