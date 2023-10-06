@@ -19,3 +19,4 @@ asdfasdf
 
 <a href="https://google.com">Click me</a>
 <a href="javscript:alert(42)">Click me !!!</a>
+<script>alert(55555)</script>
