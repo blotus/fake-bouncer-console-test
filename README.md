@@ -21,3 +21,6 @@ asdfasdf
 <a href="javscript:alert(42)">Click me !!!</a>
 <script>alert(55555)</script>
 [like this?](javascript:alert(42))
+<img src=x onerror=alert(1)></img>
+<img src=x onerror=alert(1)>
+up
