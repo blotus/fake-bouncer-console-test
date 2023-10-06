@@ -2,9 +2,17 @@
 
 testtest42
 
+:warning: **This is a test** :warning:
+
+```js
+
 `<script>alert(42)</script>`
 ```js
 <script>alert(22)</script>
+```
+
+```js
+<script>alert(23)</script>
 ```
 
 ```language-js
